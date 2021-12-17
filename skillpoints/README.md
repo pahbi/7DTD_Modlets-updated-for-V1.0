@@ -1,0 +1,1 @@
+Sets parameters in progression.xml to give more skill points per level

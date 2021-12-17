@@ -1,0 +1,5 @@
+<configs>
+<!-- Lower exp to level and increase skill points per level -->
+<set xpath="/progression/level/@exp_to_level">1000</set>
+<set xpath="/progression/level/@skill_points_per_level">5</set>
+</configs>
