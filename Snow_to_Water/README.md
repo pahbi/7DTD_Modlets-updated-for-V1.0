@@ -1,0 +1,1 @@
+Allows players to melt snow into water

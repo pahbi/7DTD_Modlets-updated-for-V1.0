@@ -1,0 +1,8 @@
+<configs>
+	<!-- Make snow into water -->
+	<append xpath="/recipes">
+		<recipe name="drinkJarBoiledWater" count="1" craft_time="5" craft_area="campfire" craft_tool="toolCookingPot">
+			<ingredient name="resourceSnowBall" count="1"/>
+		</recipe>
+	</append>
+</configs>
