@@ -1,0 +1,150 @@
+<configs>
+<!-- HARVESTING_TOOL_SKILLS -->
+/progression/crafting_skills/crafting_skill/display_entry[1]/@unlock_level
+
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[5]/@level">3,5,7,10,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[6]/@level">14,18,22,26,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[7]/@level">35,43,51,59,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHarvestingTools']/effect_group/passive_effect[8]/@level">70,80,90,95,100</set>
+
+<!-- REPAIRING_TOOL_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRepairTools']/effect_group/passive_effect[3]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRepairTools']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRepairTools']/effect_group/passive_effect[3]/@level">10,15,20,25,50</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRepairTools']/effect_group/passive_effect[4]/@level">30,35,40,45,50</set>
+
+<!-- SALVAGING_TOOL_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSalvageTools']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSalvageTools']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSalvageTools']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSalvageTools']/effect_group/passive_effect[4]/@level">6,11,16,21,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSalvageTools']/effect_group/passive_effect[5]/@level">28,34,40,46,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSalvageTools']/effect_group/passive_effect[6]/@level">54,61,68,72,75</set>
+
+<!-- KNUCKLE_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingKnuckles']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingKnuckles']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingKnuckles']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingKnuckles']/effect_group/passive_effect[4]/@level">3,5,7,10,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingKnuckles']/effect_group/passive_effect[5]/@level">17,24,31,38,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingKnuckles']/effect_group/passive_effect[6]/@level">48,57,66,70,75</set>
+
+<!-- BLADE_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBlades']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBlades']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBlades']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBlades']/effect_group/passive_effect[4]/@level">3,5,7,10,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBlades']/effect_group/passive_effect[5]/@level">17,24,31,38,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBlades']/effect_group/passive_effect[6]/@level">48,57,66,70,75</set>
+
+<!-- CLUB_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingClubs']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingClubs']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingClubs']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingClubs']/effect_group/passive_effect[4]/@level">3,5,7,10,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingClubs']/effect_group/passive_effect[5]/@level">17,24,31,38,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingClubs']/effect_group/passive_effect[6]/@level">48,57,66,70,75</set>
+
+<!-- SLEDGEHAMMER_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSledgehammers']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSledgehammers']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSledgehammers']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSledgehammers']/effect_group/passive_effect[4]/@level">3,5,7,10,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSledgehammers']/effect_group/passive_effect[5]/@level">17,24,31,38,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSledgehammers']/effect_group/passive_effect[6]/@level">48,57,66,70,75</set>
+
+<!-- *** BOW_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[9]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[10]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[6]/@level">3,5,7,9,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[7]/@level">12,15,18,21,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[8]/@level">26,30,34,38,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[9]/@level">46,53,60,67,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingBows']/effect_group/passive_effect[10]/@level">76,84,92,96,100</set>
+
+<!-- *** SPEAR_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSpears']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSpears']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSpears']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSpears']/effect_group/passive_effect[4]/@level">3,5,7,10,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSpears']/effect_group/passive_effect[5]/@level">17,24,31,38,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingSpears']/effect_group/passive_effect[6]/@level">48,57,66,70,75</set>
+
+<!-- HANDGUN_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[9]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[10]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[6]/@level">3,5,7,10,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[7]/@level">13,16,19,22,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[8]/@level">26,30,34,38,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[9]/@level">46,53,60,67,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingHandguns']/effect_group/passive_effect[10]/@level">76,84,92,96,100</set>
+
+<!-- *** SHOTGUN_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[5]/@level">3,5,7,10,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[6]/@level">14,18,22,26,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[7]/@level">35,43,51,59,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingShotguns']/effect_group/passive_effect[8]/@level">70,80,90,96,100</set>
+
+<!-- RIFLE_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[5]/@level">3,5,7,10,13</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[6]/@level">14,18,22,26,30</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[7]/@level">35,43,51,59,67</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRifles']/effect_group/passive_effect[8]/@level">70,80,90,100</set>
+
+<!-- MACHINE_GUN_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[5]/@level">3,5,7,10,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[6]/@level">14,18,22,26,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[7]/@level">35,43,51,59,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group/passive_effect[8]/@level">70,80,90,95,100</set>
+
+<!-- EXPLOSIVE_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingExplosives']/effect_group/passive_effect[12]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingExplosives']/effect_group/passive_effect[12]/@level">65,75,85,90,95</set>
+
+<!-- ROBOTIC_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[7]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[8]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[9]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[10]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[6]/@level">3,5,7,10,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[7]/@level">13,16,19,22,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[8]/@level">26,30,34,38,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[9]/@level">46,53,60,67,100</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingRobotics']/effect_group/passive_effect[10]/@level">76,84,92,96,100</set>
+
+<!-- ARMOR_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingArmor']/effect_group/passive_effect[4]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingArmor']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingArmor']/effect_group/passive_effect[6]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingArmor']/effect_group/passive_effect[4]/@level">3,5,7,10,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingArmor']/effect_group/passive_effect[5]/@level">17,24,31,38,75</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingArmor']/effect_group/passive_effect[6]/@level">48,57,66,70,75</set>
+
+<!-- *** EXPLOSIVE_SKILLS -->
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingExplosives']/effect_group/passive_effect[5]/@value">1,2,3,4,5</set>
+<set xpath="/progression/crafting_skills/crafting_skill[@name='craftingExplosives']/effect_group/passive_effect[5]/@level">65,75,85,90,100</set>
+</configs>
+

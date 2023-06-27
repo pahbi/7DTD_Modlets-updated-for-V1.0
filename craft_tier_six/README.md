@@ -1,0 +1,1 @@
+Allows the crafting a maximum tier items
