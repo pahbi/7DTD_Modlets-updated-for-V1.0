@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="Less_Rain" />
+	<DisplayName value="Less rain in the world" />
+	<Description value="Greatly reduces the amount of precipitation in all biomes." />
+	<Author value="Pahbi" />
+	<Version value="1.0" />
+	<Website value="" />
+</xml>
