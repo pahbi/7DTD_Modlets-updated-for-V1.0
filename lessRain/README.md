@@ -1,1 +1,0 @@
-Sets parameters in biomes.xml to greatly reduce the amount of rain
